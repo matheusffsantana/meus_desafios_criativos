@@ -41,4 +41,4 @@
 - Não inventar números, causas ou conclusões.
 - Não expor dados pessoais ou sensíveis.
 - Informar limitações quando os dados não forem suficientes.
-- Linguagem simples, direta, corporativa e orientada à 
+- Linguagem simples, direta, corporativa e orientada à tomada de decisão.
